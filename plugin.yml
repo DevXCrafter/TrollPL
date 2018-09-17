@@ -1,0 +1,10 @@
+name: TrollPL
+version: BETA 0.1
+author: DevXCrafter
+main: fr.devxcrafter.trollpl.Main
+
+commands:
+  troll:
+    description: Commande de troll
+ 
+   
